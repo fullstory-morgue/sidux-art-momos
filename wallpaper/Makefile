@@ -5,6 +5,8 @@ SIZES= 400x250 1024x768 1280x800 1280x1024 1440x900 1600x1200 1920x1200
 SVG= sidux-momos.svg
 
 all: $(SIZES)
+	mkdir -p sidux-momos
+	cp metadata.desktop sidux-momos/
 
 400x250:
 	mkdir -p sidux-momos/contents/
@@ -37,4 +39,4 @@ all: $(SIZES)
 		--export-png="sidux-momos/contents/images/$@.png" $(SVG)
 
 clean:
-	$(RM) -r sidux-momos/contents/
+	$(RM) -r sidux-momos/
