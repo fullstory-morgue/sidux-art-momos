@@ -88,7 +88,7 @@ ForegroundPositive=0,110,40
 ForegroundVisited=100,74,155
 
 [General]
-Name=Sidux.colors
+Name=sidux-aether.colors
 shadeSortColumn=true
 
 [KDE]
