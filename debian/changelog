@@ -2,5 +2,6 @@ sidux-art-momos (1.0-1) unstable; urgency=low
 
   * Initial Release.
   * cleanup from cruft accidentally committed
+  * update *.install to handle new output locations
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 19 Sep 2009 13:07:13 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sat, 19 Sep 2009 15:20:40 +1000

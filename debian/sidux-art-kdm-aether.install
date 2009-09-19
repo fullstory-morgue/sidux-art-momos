@@ -1,6 +1,2 @@
-dm-kdm/*.png			usr/share/kde4/apps/kdm/themes/sidux-momos
-dm-kdm/oxygen-box.svg		usr/share/kde4/apps/kdm/themes/sidux-momos
-dm-kdm/oxygen.svg		usr/share/kde4/apps/kdm/themes/sidux-momos
-dm-kdm/KdmGreeterTheme.desktop	usr/share/kde4/apps/kdm/themes/sidux-momos
-dm-kdm/momos.xml		usr/share/kde4/apps/kdm/themes/sidux-momos
+dm-kdm/sidux-momos 		usr/share/kde4/apps/kdm/themes/
 
