@@ -1,8 +1,9 @@
 sidux-art-momos (1.2.orig-1) UNRELEASED; urgency=low
 
   * New upstream release
+  * fix kde-theme *.install release misname
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 19 Sep 2009 16:50:15 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 21 Sep 2009 23:09:59 +1000
 
 sidux-art-momos (1.0-1) unstable; urgency=low
 
