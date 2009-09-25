@@ -1,8 +1,13 @@
 sidux-art-momos (1.2.1) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 25 Sep 2009 00:27:05 +0200
+  [ Bernard Gray ]
+  * fix exporting options for normal aspect ratios - source image is 1680x1050, 
+    not 1920x1200 which the original makefile catered to
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Fri, 25 Sep 2009 10:32:34 +1000
 
 sidux-art-momos (1.2.0) unstable; urgency=low
 
