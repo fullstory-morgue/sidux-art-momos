@@ -8,7 +8,7 @@ all: $(BITMAPS)
 
 logo.png:
 	mkdir -p sidux-momos/balou
-	inkscape --without-gui --export-width=400 --export-height=247 \
+	inkscape --without-gui --export-width=640 --export-height=480 \
 		--export-png="sidux-momos/balou/$@" $(SVG)
 	cp themerc sidux-momos/balou/
 clean:

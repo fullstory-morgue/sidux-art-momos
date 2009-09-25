@@ -6,8 +6,10 @@ sidux-art-momos (1.2.1) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * fix exporting options for normal aspect ratios - source image is 1680x1050, 
     not 1920x1200 which the original makefile catered to
+  * fix xfce splash export - aspect ratio was getting buggered up -
+    use native 640x480 size
 
- -- Bernard Gray <bernard.gray@gmail.com>  Fri, 25 Sep 2009 10:32:34 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Fri, 25 Sep 2009 20:12:15 +1000
 
 sidux-art-momos (1.2.0) unstable; urgency=low
 
