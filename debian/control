@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 7),
  inkscape,
  perl,
  libxml-parser-perl,
-  ttf-dustin
+ ttf-dustin
 Standards-Version: 3.8.3
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-momos/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-momos/trunk/
@@ -58,10 +58,21 @@ Description: Xfce splash theme for sidux 2009-03 release
 Package: sidux-art-wallpaper-momos
 Architecture: all
 Provides: sidux-art-wallpaper-theme
+Conflicts: sidux-art-wallpaper-momos-edu
 Depends: ${misc:Depends}
 Description: sidux wallpaper for 2009-03 release
  The official wallpaper for the 2009-03 (Μώμος)
  sidux release.
+
+Package: sidux-art-wallpaper-momos-edu
+Architecture: all
+Provides: sidux-art-wallpaper-theme,
+ sidux-art-wallpaper-momos
+Conflicts: sidux-art-wallpaper-momos
+Depends: ${misc:Depends}
+Description: sidux-seminarix wallpaper for 2009-03 release
+ The official wallpaper for the 2009-03 (Μώμος)
+ sidux-seminarix release.
 
 Package: sidux-art-xfce-momos
 Architecture: all
