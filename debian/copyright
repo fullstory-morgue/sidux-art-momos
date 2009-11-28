@@ -73,6 +73,15 @@ Files: dm-gdm/language.png
 		|
 		|   With this library a notice is placed at a prominent place in the directory
 
+File: dm-slim/panel.svg:
+                Copyright: © 2009 Marc Zimmermann <soundscout@sidux.com>
+                License: GPL v2 or later
+
+File: dm-slim/Makefile
+      dm-slim/slim.theme
+      dm-slim/SlimGreeterTheme.desktop:
+                Copyright: © 2008 Roland Engert <roen@sidux.com>
+                License: GPL v2 or later
 
 License:
 

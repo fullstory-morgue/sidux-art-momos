@@ -1,8 +1,12 @@
 sidux-art-momos (1.2.3) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 11 Nov 2009 00:50:01 +0100
+  [ Bernard Gray ]
+  * add dm-slim - momos theme for slim login manager
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 29 Nov 2009 09:29:29 +1100
 
 sidux-art-momos (1.2.2) unstable; urgency=low
 
