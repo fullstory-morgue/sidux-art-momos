@@ -1,3 +1,10 @@
+sidux-art-momos (1.2.3+nmu1) UNRELEASED; urgency=low
+
+  * Non-maintainer upload.
+  * sync lxde changes with noc
+
+ -- Chris Hildebrandt <slam@sidux.com>  Fri, 25 Dec 2009 11:35:36 +0100
+
 sidux-art-momos (1.2.3) UNRELEASED; urgency=low
 
   [ Stefan Lippers-Hollmann ]
