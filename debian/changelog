@@ -1,19 +1,14 @@
-sidux-art-momos (1.2.3+nmu1) UNRELEASED; urgency=low
-
-  * Non-maintainer upload.
-  * sync lxde changes with noc
-
- -- Chris Hildebrandt <slam@sidux.com>  Fri, 25 Dec 2009 11:35:36 +0100
-
 sidux-art-momos (1.2.3) UNRELEASED; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
   [ Bernard Gray ]
   * add dm-slim - momos theme for slim login manager
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 29 Nov 2009 09:29:29 +1100
+  [ Chris Hildebrandt ]
+  * sync lxde changes with noc
+
+ -- Chris Hildebrandt <slam@sidux.com>  Fri, 25 Dec 2009 11:35:36 +0100
 
 sidux-art-momos (1.2.2) unstable; urgency=low
 
