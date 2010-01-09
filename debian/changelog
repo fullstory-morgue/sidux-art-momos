@@ -1,13 +1,6 @@
-sidux-art-momos (1.2.3) UNRELEASED; urgency=low
+sidux-art-momos (1.2.3) unstable; urgency=low
 
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
-  * add dm-slim - momos theme for slim login manager
   * add symlink to wide wallpaper version for xfce users 
-
-  [ Chris Hildebrandt ]
-  * sync lxde changes with noc
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 04 Jan 2010 15:36:40 +1100
 

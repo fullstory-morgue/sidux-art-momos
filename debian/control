@@ -84,12 +84,3 @@ Recommends: sidux-art-wallpaper-momos, dmz-cursor-theme
 Description: Xfce theme for sidux 2009-03 release
  Virtual package providing Xfce-splash and gdm themes
  for sidux 2009-03 (Μώμος) release
-
-Package: sidux-art-slim-momos
-Architecture: all
-Depends: ${misc:Depends},
- slim
-Description: Slim theme based on sidux 2009-03 release art
- a Slim theme based on the 2009-03 (Μώμος)
- sidux release artwork.
-
