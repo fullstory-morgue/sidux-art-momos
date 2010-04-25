@@ -1,12 +1,10 @@
 This package was debianized by:
-
     Bernard Gray <bernard.gray@gmail.com> on Wed, 08 Apr 2009 13:10:36 +1000
 
 The original source can always be found at:                                 
         http://developer.berlios.de/projects/fullstory 
 
 Copyright:
-
 All files unless specified:
 		Copyright: © 2008 Bernard Gray <bernard.gray@gmail.com>
 			   © 2008 David Creedy <klaymen@sidux.com>
@@ -19,9 +17,9 @@ File: splash-kde/svg-anim.pl:
 Files: dm-gdm/language.png
        dm-gdm/session.png
        dm-gdm/system.png
-	 dm-kdm/oxygen.svg
-	 dm-kdm/session.png
-	 dm-kdm/system.png
+       dm-kdm/oxygen.svg
+       dm-kdm/session.png
+       dm-kdm/system.png
 	      Copyright: The Oxygen Icon Theme 
 		|     Copyright (C) 2007 David Vignoni <david@icon-king.com>
 		|     Copyright (C) 2007 Johann Ollivier Lapeyre <johann@oxygen-icons.org>
