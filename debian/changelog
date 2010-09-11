@@ -15,7 +15,7 @@ sidux-art-momos (1.2.4) unstable; urgency=low
 
 sidux-art-momos (1.2.3) unstable; urgency=low
 
-  * add symlink to wide wallpaper version for xfce users 
+  * add symlink to wide wallpaper version for xfce users
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 04 Jan 2010 15:36:40 +1100
 
@@ -28,7 +28,7 @@ sidux-art-momos (1.2.2) unstable; urgency=low
 
 sidux-art-momos (1.2.1) unstable; urgency=low
 
-  * fix exporting options for normal aspect ratios - source image is 1680x1050, 
+  * fix exporting options for normal aspect ratios - source image is 1680x1050,
     not 1920x1200 which the original makefile catered to
   * fix xfce splash export - aspect ratio was getting buggered up -
     use native 640x480 size
