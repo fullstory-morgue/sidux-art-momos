@@ -8,7 +8,7 @@ Build-Depends: debhelper (>= 7),
  perl,
  libxml-parser-perl,
  ttf-dustin
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-momos/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-momos/trunk/
 
@@ -26,9 +26,10 @@ Provides: sidux-art-kde-theme
 Depends: ${misc:Depends},
  sidux-art-ksplash-momos,
  sidux-art-kdm-momos
-Recommends: sidux-art-wallpaper-momos, dmz-cursor-theme
+Recommends: sidux-art-wallpaper-momos,
+ dmz-cursor-theme
 Description: KDE theme for sidux 2009-03 release
- Virtual package providing ksplash, kdm and KDE themes
+ metapackage providing ksplash, kdm and KDE themes
  for sidux 2009-03 (Μώμος) release
 
 Package: sidux-art-kdm-momos
@@ -80,7 +81,8 @@ Provides: sidux-art-xfce-theme
 Depends: ${misc:Depends},
  sidux-art-xsplash-momos,
  sidux-art-gdm-momos
-Recommends: sidux-art-wallpaper-momos, dmz-cursor-theme
+Recommends: sidux-art-wallpaper-momos,
+ dmz-cursor-theme
 Description: Xfce theme for sidux 2009-03 release
- Virtual package providing Xfce-splash and gdm themes
+ metapackage providing Xfce-splash and gdm themes
  for sidux 2009-03 (Μώμος) release
