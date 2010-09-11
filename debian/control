@@ -3,7 +3,7 @@ Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Build-Depends: debhelper (>= 7),
+Build-Depends: debhelper (>= 7.9.3),
  inkscape,
  perl,
  libxml-parser-perl,
