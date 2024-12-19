@@ -4,6 +4,7 @@ sidux-art-momos (1.2.5) ORPHANED; urgency=low
   * ORPHAN PACKAGE, must now be built from sidux-art-legacy.
   * bump standards version to 3.9.1, no changes necessary.
   * switch to compat level 8.
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:18:18 +0200
 
